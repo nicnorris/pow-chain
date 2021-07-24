@@ -11,6 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "crypto-js": "^4.1.1",
-    "jayson": "^3.6.4"
+    "elliptic": "^6.5.4",
+    "jayson": "^3.6.4",
+    "yargs": "^17.0.1"
   }
 }
